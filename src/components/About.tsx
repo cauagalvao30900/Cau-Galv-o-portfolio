@@ -5,7 +5,7 @@ export default function About() {
   const skills = [
     {
       icon: <Code2 className="w-6 h-6" />,
-      title: 'Desenvolvimento Front-end',
+      title: 'Desenvolvimento Front-End',
       description: 'Especialista em React, React Native, JavaScript, HTML, CSS e frameworks modernos de CSS',
     },
     {
